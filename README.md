@@ -78,3 +78,4 @@ directory upon the user creation. Since the conversion script relies on a pre-in
 To reach a full parrot customization the content of /etc/skel should be copied
 on every user home directory, but paying attention to avoid override customization that the user may have done on those files.
 
+# parrot
